@@ -1,0 +1,285 @@
+@media(max-width:1200px) {
+    .banner__btn__section{
+        justify-content: center;
+        margin-bottom: 1em;
+    }
+    .tuy6__iso{
+        text-align: center;
+    }
+    #banner__section{
+        padding-top: 2em;
+    }
+}
+@media(max-width:1140px) {
+    .section__title::before{
+      font-size: 104px !important;
+    }
+}
+
+@media(max-width:992px){
+    nav{
+        height: 140px;
+    }
+    #banner__section{
+        padding-top: 3em;
+    }
+    .community__r4y .row .tabs li.active::before, .community__r4y .row .tabs li.active::after{
+        display: none;
+    }
+    .banner__svg{
+        min-height: 305px;
+    }
+    #ecosystem{
+        padding: 4em 0;
+    }
+    #our__token{
+        padding-bottom: 0em;
+    }
+    #how-to-buy, #how-to-buy, #art .section__title, #community .section__title {
+        margin-bottom: 2em;
+    }
+    .iue__rr6{
+        text-align: center;
+    }
+    #how-to-buy, #art{
+        padding-bottom: 0;
+    }
+    #community{
+        padding-top: 3em;
+    }
+    .community__r4y .row .tabs li figure{
+        margin-right: 60px;
+    }
+}
+@media(max-width:920px) {
+    .section__title::before{
+      font-size: 90px !important;
+      transform: translate(-50%, -46%) !important;
+    }
+    .section__title{
+      font-size: 40px !important;
+    }
+}
+@media(max-width:800px) {
+    .section__title::before{
+      font-size: 78px !important;
+      opacity: 0.12 !important;
+    }
+    .section__title {
+      font-size: 36px !important;
+    }
+    .community__r4y{
+        padding: 70px 0 30px;
+    }
+    
+    .community__r4y .row .tabs li figure{
+        margin-right: 0px;
+    }
+}
+@media(max-width:767px) {
+    #ecosystem{
+        padding-top: 0;
+    }
+    #banner__section{
+        padding-bottom: 3em;
+    }
+    .section__title{
+        margin-bottom: 2em;
+    }
+    #ecosystem h1{
+        font-size: 32px;
+    }
+    #our__token{
+        padding-top: 4em;
+    }
+    
+}
+@media(max-width:700px) {
+    .section__title::before{
+      font-size: 60px !important;
+    }
+    .community__r4y .row .tabs li figure::after{
+        display: none;
+    }
+    .community__r4y{
+        padding-top: 20px;
+    }
+    
+}
+@media(max-width:600px) {
+    .community__r4y .row .tabs li:nth-child(3) figure img{
+        margin-top: -90px;
+    }
+    .community__r4y .row .tabs li figure img{
+        width: 80% !important;
+    }
+    .banner__btn__section{
+        display: grid;
+    }
+    #neonShadow{
+        margin-right: 0px !important;
+        margin-bottom: 2em;
+    }
+    #ecosystem h1{
+        font-size: 24px;
+        line-height: 34px;
+    }
+    
+    #ecosystem p, .token__card p{
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .token__card li img{
+        width: 7em;
+    }
+    #community{
+        padding-top: 2.4em;
+        padding-bottom: 3em;
+    }
+    .community__r4y .row .tabs li:nth-child(3) figure {
+        margin-right: 60px;
+    }
+
+}
+@media(max-width:560px) {
+    .section__title::before{
+      font-size: 51px !important;
+    }
+    .community__r4y .row .tabs li:nth-child(3) figure {
+        margin-right: 40px;
+    }
+    .quote-wrapper{
+        text-align: center;
+    }
+    .social__icon__wrapper{
+        justify-content: center;
+    }
+}
+
+@media(max-width:500px){
+    .loading-count #loadingNumber {
+        font-size: 2em;
+    }
+    .loading-count{
+        width: 150px;
+        height: 150px;
+    }
+    .loading-circle{
+        width: 160px;
+        height: 160px;
+        box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.548), -4px -4px 16px rgba(255, 255, 255, 0.1);
+    }
+    .community__r4y .row .tabs li figure img{
+        width: 70% !important;
+    }
+    .banner__svg{
+        min-height: 230px;
+    }
+    .ecosystem__list {
+        padding-top: 1em;
+    }
+    .token__card li{
+        padding: 2em;
+    }
+    .token__card li img{
+        margin-top: -5em;
+    }
+    .timeline > li .timeline-panel, .timeline > li.timeline-inverted > .timeline-panel{
+        padding: 0px 20px 0px 85px;
+    }
+    .timeline > li .timeline-image{
+        width: 65px;
+        height: 65px;
+    }
+    .timeline-heading h4{
+        font-size: 17px;
+    }
+    .timeline > li{
+        margin-bottom: 24px;
+    }
+    #community{
+        padding-top: 1.4em;
+        padding-bottom: 2em;
+    }
+    footer p{
+        font-size: 13px;
+    }
+}
+
+
+@media(max-width:470px) {
+    .section__title::before{
+      font-size: 42px !important;
+    }
+    .section__title{
+      font-size: 22px !important;
+    }
+    #banner__section{
+        padding-top: 2em;
+    }
+    nav{
+        height: 110px;
+    }
+    #neonShadow{
+        padding: 15px ;
+    }
+    #ecosystem h1{
+        font-size: 20px;
+        line-height: 34px;
+    }
+    #ecosystem p , .timeline .timeline-body > ul, .timeline .timeline-body > p, .community__r4y .row .carousel .carousel-inner .carousel-item .quote-wrapper p{
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .rr3e__sa p {
+        font-size: 15px;
+    }
+    .ecosystem__card h5{
+        font-size: 16px;
+    }
+
+}
+  
+@media(max-width:450px) {
+    #banner__section{
+        padding-bottom: 0;
+    }
+    .community__r4y .row .tabs li figure img{
+        width: 60% !important;
+    }
+    .community__r4y .row .tabs li:nth-child(3) figure img{
+        margin-right: 20px;
+    }
+    .community__r4y .row .tabs li:nth-child(3) figure {
+        margin-right: 0px;
+    }
+    .social__icon__link {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 19px;
+        border-radius: 13px;
+    }
+  }
+  
+  @media(max-width:400px) {
+    .section__title::before{
+      font-size: 36px !important;
+    }
+    .section__title{
+      font-size: 25px !important;
+    }
+    .community__r4y .row .tabs li figure img{
+        width: 50% !important;
+    }
+    .community__r4y .row .tabs li:nth-child(3) figure {
+        margin-right: 20px;
+    }
+}
+  
+  @media(max-width:380px) {
+    .community__r4y .row .tabs li:nth-child(3) figure img{
+        margin-right: 0;
+    }
+    
+}
