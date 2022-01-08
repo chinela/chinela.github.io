@@ -184,7 +184,9 @@ body{
     display: flex;
     background-color: #20233b;
 }
-
+.hamburger{
+  margin-right: 10px;
+}
 /* Hamburger menu */
 .hamburger .line{
     width: 35px;
