@@ -237,6 +237,13 @@
     .ecosystem__card h5{
         font-size: 16px;
     }
+    #logoName{
+        font-size: 1em;
+      }
+      .logo__image{
+        width: 46px;
+          margin-right: 5px;
+      }
 
 }
   

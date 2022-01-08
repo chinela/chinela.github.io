@@ -956,7 +956,13 @@ margin-bottom: 3em;
     color: #6c757d !important;
 }
 
-
+#logoName{
+  font-size: 1.3em;
+}
+.logo__image{
+  width: 50px;
+    margin-right: 9px;
+}
 #how-to-buy {
     background: rgba(33, 35, 60, 0.582);
     min-height: 500px;
