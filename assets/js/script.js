@@ -2,10 +2,10 @@ $(document).ready(function() {
     var wow = new WOW();
     wow.init();
 
-    setTimeout(() => {
-        $("#page__loader").fadeOut()
-        $("body").removeClass('overflow-hidden');   
-    }, 2000);
+    // setTimeout(() => {
+    //     $("#page__loader").fadeOut()
+    //     $("body").removeClass('overflow-hidden');   
+    // }, 2000);
 
     $(window).scroll(function () {
         if ($(this).scrollTop() > 240) {
@@ -31,7 +31,7 @@ $(document).ready(function() {
         loadingNumber.innerHTML = load;
         loadingCircle.style.background = 'conic-gradient(from 0deg at 50% 50%, rgba(111, 123, 247, 1) 0%, rgba(155, 248, 244, 1) ' + load + '%, #101012 ' + load + '%)'
     }
-    setInterval(updateLoader, 50);
+    // setInterval(updateLoader, 50);
 
     // Hamburger menu
     $(".hamburger").click(function(){
